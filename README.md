@@ -1,16 +1,27 @@
-# Whatsapp-message-spammer
-It spams whatsapp messages to someone
+# WhatsApp Message Spammer
 
+WhatsApp Message Spammer is a Python script that automates sending multiple messages to a recipient on WhatsApp Web.
 
+## Required Modules (Install with `pip install {Module name}`)
 
-**modules to be installed(pip install {Module name})**
 1. pyautogui
 2. webbrowser
 3. time
 
-## Steps
-1. python has to be installed in your pc
-2. edit the spam.txt according to your messages that you want to spam
-3. now run the code in your terminal
-4. enter the name of person you want to spam the messages
-5. if you are facing any error while running in whatsapp web then you need to take screenshot of whatsapp web by yourself and edit as given in search.png file.
+## Getting Started
+
+To use this script, make sure you have Python installed on your computer.
+
+1. Edit the `spam.txt` file to include the messages you want to send as spam.
+
+2. Run the script in your terminal.
+
+3. Enter the name of the person you want to spam messages to.
+
+4. If you encounter any issues when using WhatsApp Web, you may need to take a screenshot of WhatsApp Web yourself and edit it as described in the `search.png` file.
+
+## Disclaimer
+
+Please use this script responsibly and only with the consent of the recipient. Excessive and unsolicited spamming can violate WhatsApp's terms of service and lead to penalties.
+
+Happy Spammin'!
