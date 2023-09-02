@@ -3,7 +3,7 @@
 WhatsApp Message Spammer is a Python script that automates sending multiple messages to a recipient on WhatsApp Web.
 
 ## Table of Contents
-- [Requiered Modules](#Required-Modules-(Install-with-`pip-install-{Module-name}`))
+- [Requiered Modules](#required-modules-install-with-pip-install-module-name)
 - [Getting Started](#getting-started)
 - [Disclaimer](#Disclaimer)
   
